@@ -9,7 +9,11 @@
   <rows>
     <row>
       <cell>SNOW</cell>
-      <cell>uat1</cell>
+      <cell>uat2</cell>
+    </row>
+    <row>
+      <cell>SNOW</cell>
+      <cell>uat3</cell>
     </row>
   </rows>
 </dvm>
